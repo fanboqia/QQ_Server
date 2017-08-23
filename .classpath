@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="libs/c3p0-0.9.1.2.jar"/>
+	<classpathentry kind="lib" path="libs/mysql-connector-java-5.1.42-bin.jar"/>
+	<classpathentry kind="lib" path="libs/json-lib-2.2.3-jdk15.jar"/>
+	<classpathentry kind="lib" path="libs/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="libs/commons-collections-3.2.jar"/>
+	<classpathentry kind="lib" path="libs/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="libs/commons-logging.jar"/>
+	<classpathentry kind="lib" path="libs/ezmorph-1.0.3.jar"/>
+	<classpathentry kind="lib" path="libs/commons-email-1.4.jar"/>
+	<classpathentry kind="lib" path="libs/dsn.jar"/>
+	<classpathentry kind="lib" path="libs/gimap.jar"/>
+	<classpathentry kind="lib" path="libs/imap.jar"/>
+	<classpathentry kind="lib" path="libs/mail.jar"/>
+	<classpathentry kind="lib" path="libs/mailapi.jar"/>
+	<classpathentry kind="lib" path="libs/pop3.jar"/>
+	<classpathentry kind="lib" path="libs/smtp.jar"/>
+	<classpathentry kind="lib" path="libs/taobao-sdk-java-auto_1455552377940-20160813.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
